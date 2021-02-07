@@ -1,0 +1,42 @@
+h1
+{
+    color: black;
+    text-decoration: underline;
+    text-align: center;
+    border: 3px red solid;
+    border-radius: 10px;
+    box-shadow: 15px 15px 30px black;
+    text-shadow: 15px 15px 8px black;
+    width: 100%;
+}
+
+h1:hover
+{
+    font-size: 30px;
+}
+
+h3:hover
+{
+    border-left: 3px solid black;
+    color: red;
+    font-size: 20px;
+}
+
+*
+{
+    font-family: 'Times New Roman', Times, serif;
+    background-color:rgb(34, 178, 123);
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+a:hover
+{
+    color: green
+}
+
+a:visited
+{
+    color:green;
+}
